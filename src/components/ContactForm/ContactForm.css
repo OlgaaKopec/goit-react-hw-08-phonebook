@@ -1,0 +1,34 @@
+.btn {
+  border: 1px solid black;
+  box-shadow: 1px 1px 1px 1px gray;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 10px;
+  
+}
+.btn2 {
+  padding-left: 20px;
+}
+
+.btn:hover {
+  transform: scale(1.05); 
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+.input {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 1px 1px gray;
+  border: 1px solid black;
+}
+
+.form {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+}
+.contact {
+  margin-top: 8px;
+}

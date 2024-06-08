@@ -1,0 +1,19 @@
+.nav {
+    text-decoration: none;
+    color: rgb(0, 1, 80);
+    font-weight: 600;
+}
+
+.next {
+    display: flex;
+    gap: 15px;
+    justify-content: right;
+    }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 1000px;
+}

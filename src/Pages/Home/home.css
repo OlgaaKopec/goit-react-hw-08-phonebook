@@ -1,0 +1,19 @@
+.container {
+    margin-top: 100px;
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        max-width: 1000px;
+}
+
+.title {
+    font-weight: 500px;
+        font-size: 48px;
+        text-align: center;
+}
+.nav {
+    display: inline-block;
+     text-decoration: none;
+     color:rgb(0, 1, 80);
+}
